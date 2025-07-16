@@ -28,7 +28,6 @@ Welcome to **Perfect Guesser** – a fun little game where you try to guess the 
 
 ## 🖼️ Preview
 
-*(Add this screenshot to your repo and name it `screenshot.png`)*  
 ![App Preview](Perfect_guesser.png)
 
 ---
